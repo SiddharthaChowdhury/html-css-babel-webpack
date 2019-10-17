@@ -1,7 +1,0 @@
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
-    #root{
-        background-color: red;
-        height: 50px;
-    }
-}
